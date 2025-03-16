@@ -41,7 +41,7 @@ Get the app from our [releases page](https://github.com/kodjodevf/mangayomi/rele
 &nbsp;
 <a href="https://raw.githubusercontent.com/kodjodevf/mangayomi/refs/heads/main/repo/source.json"><img alt="Direct URL Source" src="repo/images/buttons/url_button.png" width="150"></a>
 
-Note: Only future releases (> 0.5.2) will be signed have have AltStore/SideStore compatibility.
+Note: Only future releases (> 0.5.2) will be signed (and therefore have AltStore/SideStore compatibility).
 
 # Contributing
 
